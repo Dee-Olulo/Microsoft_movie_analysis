@@ -14,9 +14,11 @@ The datasets utilized for this analysis are sourced from Box Office Mojo, IMDB, 
 Regression analyses were conducted to examine the relationship between worldwidegross and various factors including genre, runtime, popularity and budget. By analyzing these factors, we aim to identify optimal choices for Microsoft's movie studio. The process involves iterating through different metrics until we arrive at a comprehensive recommendation regarding the type of movies to produce.
 
 ## Results
-The histogram illustrates that the majority of movies fall within the 90 to 130-minute range, with a peak between 100 and 110 minutes. The dashed black line indicates the average runtime of approximately 120 minutes. While some films have shorter or longer durations, they are less common.
 
-![Data_visualisation - Jupyter Notebook - Google Chrome 2_16_2024 9_10_19 AM](https://github.com/Dee-Olulo/Microsoft_movie_analysis/assets/151445934/110215a2-92d0-4444-b93e-068c5b4c5df3)
+The graph also includes a cumulative distribution line that shows the percentage of movies that have a worldwide gross below a certain amount. For example, approximately 75% of movies have a worldwide gross below 200, while 95% of movies have a worldwide gross below 400.
+
+![Data_visualisation - Jupyter Notebook - Google Chrome 2_16_2024 10_10_12 PM](https://github.com/Dee-Olulo/Microsoft_movie_analysis/assets/151445934/2794fa77-98d4-4810-91a2-67677614a06e)
+
 
 The graph  below depicts that the Action genre yields the highest revenue, around 1.25 billion dollars, followed by Comedy, Drama, and Adventure genres with revenues of approximately 750 million, 500 million, and 400 million dollars respectively.
 
@@ -30,6 +32,11 @@ Based on the graph, we can observe that most movies have a production budget bet
 
 ![Data_visualisation - Jupyter Notebook - Google Chrome 2_16_2024 9_38_31 AM](https://github.com/Dee-Olulo/Microsoft_movie_analysis/assets/151445934/b271e379-4788-4e4c-a87c-0061669a19b7)
 
+The heatmap reveals significant correlations: popularity and worldwide gross (0.57), larger budgets and higher gross (0.41), while longer runtimes tend to slightly lower vote averages (-0.12). This suggests focusing on popular genres with moderate budgets for optimal returns.
+
+
+![Data_visualisation - Jupyter Notebook - Google Chrome 2_16_2024 10_22_31 AM](https://github.com/Dee-Olulo/Microsoft_movie_analysis/assets/151445934/27b5d26e-850e-4d34-93c1-6415bcaf4b81)
+
 ## Conclusion
 
 ###### The analysis leads to the following recommendations:
@@ -37,11 +44,7 @@ Based on the graph, we can observe that most movies have a production budget bet
 2. The production budget should fall within the range of 15 to 30 million dollars.
 3. Microsoft should prioritize producing more comedy, drama, action, and adventure movies, as they are popular and generate high revenue.
 
-## Next steps
-Further analyses could yield additional insights:
-1. 
-2.
-3.
+
 
 
 

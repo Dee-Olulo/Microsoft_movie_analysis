@@ -37,9 +37,10 @@ The heatmap reveals significant correlations: popularity and worldwide gross (0.
 
 ![Data_visualisation - Jupyter Notebook - Google Chrome 2_16_2024 10_22_31 AM](https://github.com/Dee-Olulo/Microsoft_movie_analysis/assets/151445934/27b5d26e-850e-4d34-93c1-6415bcaf4b81)
 
-Most of the movies have a Production Budget lower than their Worldwide Gross, indicating that they were financially successful.
+The majority of movies have a runtime between 100 and 120 minutes, with a peak around 110 minutes, where there are approximately 400 movies.
+![Data_visualisation - Jupyter Notebook - Google Chrome 2_16_2024 10_04_11 PM](https://github.com/Dee-Olulo/Microsoft_movie_analysis/assets/151445934/097016f0-de4e-40a0-8a7f-189f6d88b279)
 
-![Data_visualisation - Jupyter Notebook - Google Chrome 2_17_2024 7_15_00 PM](https://github.com/Dee-Olulo/Microsoft_movie_analysis/assets/151445934/9002faea-b897-4d6a-b886-b6e1fc1ecb9d)
+
 
 ## Conclusion
 

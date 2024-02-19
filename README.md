@@ -40,7 +40,8 @@ The heatmap reveals significant correlations: popularity and worldwide gross (0.
 The majority of movies have a runtime between 100 and 120 minutes, with a peak around 110 minutes, where there are approximately 400 movies.
 ![Data_visualisation - Jupyter Notebook - Google Chrome 2_16_2024 10_04_11 PM](https://github.com/Dee-Olulo/Microsoft_movie_analysis/assets/151445934/097016f0-de4e-40a0-8a7f-189f6d88b279)
 
-
+Relationship between production budget and worldwide_gross.
+![Microsoft Movie Analysis - Jupyter Notebook - Google Chrome 2_19_2024 8_32_29 PM](https://github.com/Dee-Olulo/Microsoft_movie_analysis/assets/151445934/6f72ceda-378d-41dc-97c4-5c4624ecd1c6)
 
 ## Conclusion
 
@@ -48,7 +49,7 @@ The majority of movies have a runtime between 100 and 120 minutes, with a peak a
 1. Microsoft should aim for movie runtimes between 90 and 125 minutes.
 2. The production budget should fall within the range of 15 to 30 million dollars.
 3. Microsoft should prioritize producing more comedy, drama, action, and adventure movies, as they are popular and generate high revenue.
-
+4.The higher the production budget the higher the revenue/ worldwide gross. Although there is a general trend of increasing worldwide gross with production budget, there is still a significant amount of variation in the data. Some movies with low production budgets have high worldwide gross revenue, while others with high production budgets have low revenue.
 
 
 

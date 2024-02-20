@@ -49,7 +49,7 @@ Relationship between production budget and worldwide_gross.
 1. Microsoft should aim for movie runtimes between 90 and 125 minutes.
 2. The production budget should fall within the range of 15 to 30 million dollars.
 3. Microsoft should prioritize producing more comedy, drama, action, and adventure movies, as they are popular and generate high revenue.
-4.The higher the production budget the higher the revenue/ worldwide gross. Although there is a general trend of increasing worldwide gross with production budget, there is still a significant amount of variation in the data. Some movies with low production budgets have high worldwide gross revenue, while others with high production budgets have low revenue.
+4. The higher the production budget the higher the revenue/ worldwide gross. Although there is a general trend of increasing worldwide gross with production budget, there is still a significant amount of variation in the data. Some movies with low production budgets have high worldwide gross revenue, while others with high production budgets have low revenue.
 
 
 
